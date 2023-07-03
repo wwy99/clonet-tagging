@@ -1,0 +1,30 @@
+{
+  "signUp": {
+    "title": "注册",
+    "wechatName": "微信名",
+    "phoneNumber": "手机号码",
+    "password": "密码",
+    "button": "注册",
+    "haveAccount": "已有账号？",
+    "phoneValidationError": "手机号码格式错误 请输入11位手机号码",
+    "registrationError": "注册过程中发生错误，请稍后再试。"
+  },
+  "login": {
+    "title": "登录",
+    "phoneNumber": "手机号码",
+    "password": "密码",
+    "button": "登录",
+    "newUser": "新用户？",
+    "invalidCredentialsError": "密码错误，请重试。",
+    "loginError": "无注册信息，请注册。"
+  },
+  "center": {
+    "title": "个人中心",
+    "wechatName": "微信名",
+    "phoneNumber": "手机号码",
+    "taggingStats": "标注统计",
+    "imagesTagged": "已标注图片数",
+    "payout": "收益",
+    "startTagging": "开始标注"}
+}
+
